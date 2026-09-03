@@ -42,7 +42,7 @@ The system keeps track of the number of glasses consumed and displays the remain
 * RTC
 * LCD
 * Matrix Keypad
-* Timers and Interrupts
+* Interrupts
 
 ##  Working Principle
 
@@ -55,7 +55,7 @@ The system keeps track of the number of glasses consumed and displays the remain
 7. A successful drinking indication is displayed on the LCD.
 8. If the user does not respond within the specified reminder window, the system provides a missed-reminder indication.
 9. The process continues until the daily water target is reached.
-10. The water intake count is reset for the next day.
+10. Automatically at midnight the water intake count is reset for the next day.
 
 ## 💡 Main Features
 
