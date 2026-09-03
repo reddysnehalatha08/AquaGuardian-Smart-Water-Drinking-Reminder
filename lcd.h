@@ -1,0 +1,10 @@
+#include "types.h"
+void writeLCD(u8);
+void cmdLCD(u8);
+void InitLCD(void);
+void charLCD(u8);
+void strLCD(s8*);
+void u32LCD(u32);
+void s32LCD(s32);
+void f32LCD(f32,u8);
+void BuildCGRAM(u8*,u8);
