@@ -146,8 +146,8 @@ The matrix keypad can be used for configuring the required water intake and remi
 
 **Reddy Snehalatha**
 
-Electronics & Communication Engineering
-Siddhartha Institute of Engineering and Technology
+Electronics & Communication Engineering,
+Siddhartha Institute of Engineering and Technology,
 Vector India
 
 This project is developed for educational and academic purposes.
